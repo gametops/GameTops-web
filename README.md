@@ -1,6 +1,3 @@
-# GameTops-web
-Explore live server stats here
-
 # 🎮 Game Server List & Monitoring Platform
 
 Welcome to this repository!  
